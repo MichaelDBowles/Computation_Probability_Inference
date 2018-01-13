@@ -1,4 +1,4 @@
-# Computation_Probability_Inference
+# Computation_Probability_Inference_Sample_Space_Generator
 (written in Python 3.5)
 Sample Space Generator (limited to value of outcomes possible, list)
 Intended to help computation for probability that requires a sample space. 
