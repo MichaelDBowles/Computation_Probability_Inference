@@ -1,4 +1,4 @@
-e Computation_Probability_Inference 
+# Computation_Probability_Inference 
 # Sample_Space_Generator
 (written in Python 3.5)
 Sample Space Generator (limited to value of outcomes possible, list)
